@@ -1,7 +1,26 @@
 body {
   padding: 40px;
 }
+button{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 60px;
+  border: 1px solid #1a1aff;
+  background: #1a1aff;
+  color: #fff;
+  font-size: 15px;
+  padding: 12px 24px;
+  border-radius: 6px;
+  transition: all 200ms ease;
+  box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+  cursor: pointer;
 
-button {
-  /* Solve me */
+}
+button:hover {
+  background:#00004d; 
+  color: white;
+  border: 1px solid #00004d;
+  border-radius: 6px;
+  font-size: 14px;
+
 }

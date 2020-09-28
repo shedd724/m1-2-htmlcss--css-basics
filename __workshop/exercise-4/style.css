@@ -1,29 +1,32 @@
-#centered {
+.centered {
   text-align: center;
 }
 
-.title {
-  font-size: 3rem;
+#title {
+  font-size: 2em;
 }
 
-subtitle {
-  font-size: 1.5rem;
+#subtitle {
+  font-size: 16px;
 }
 
 .div {
   background-color: gray;
 }
 
-#li {
+li {
   list-style-type: none;
+  font-size: 10px;
 }
 
 #content {
   text-decoration: underline;
   background: grey;
+  font-size: 8px;
+ 
 }
 
-monospaced {
+.monospaced {
   font-family: monospace;
 }
 
@@ -32,4 +35,5 @@ p,
 h2 {
   background: grey;
   margin: 0;
+  font-weight: lighter;
 }

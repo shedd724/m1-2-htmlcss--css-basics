@@ -17,3 +17,142 @@ li {
 }
 
 /* ADD CSS BELOW */
+h1 {
+  text-align: center;
+  font-family:  "Bangers", cursive;
+  font-size: 60px;
+}
+
+h2{
+  font-family:  "Bangers", cursive;
+  font-size: 30px;
+  margin: 20px;
+}
+
+h3{
+  font-family:  "Bangers", cursive;
+}
+
+.rowOne {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+}
+
+
+.rowTwo{
+  display: flex;
+  justify-content: flex-start;
+  list-style-type: none;
+}
+
+.rowThree {
+  display: flex;
+  justify-content: flex-start;
+  list-style-type: none;
+}
+
+.cuteAnimals {
+  height: 150px;
+  border-radius: 5px;
+}
+
+.cats {
+  background-color: #eaeaee;
+  float: left;
+  text-align: center;
+  border-width: 3px;
+  border: 2px dashed gray;
+  padding: 10px;}
+
+.dogs {
+  background-color: #eaeaee;
+  float: left;
+  text-align: center;
+  border-width: 3px;
+  border: 2px dashed gray;
+  padding: 10px;
+}
+
+.alpaca {
+  background-color: #eaeaee;
+  float: left;
+  text-align: center;
+  border-width: 3px;
+  border: 2px dashed gray;
+  padding: 10px;
+}
+
+
+.bigAnimals {
+  height: 150px;
+  border-radius: 5px;
+}
+
+.elephant{
+  background-color: #eaeaee;
+  float: left;
+  text-align: center;
+  border-width: 3px;
+  border: 2px dashed gray;
+  padding: 10px;
+  margin: 20px;
+}
+
+.giraffe{
+  background-color:#eaeaee;
+  float: left;
+  text-align: center;
+  border-width: 3px;
+  border: 2px dashed gray;
+  padding: 10px;
+  margin: 20px;
+}
+
+.whales {
+  background-color: #eaeaee;
+  float: left;
+  text-align: center;
+  border-width: 3px;
+  border: 2px dashed gray;
+  padding: 10px;
+  margin: 20px;
+}
+
+
+.insect {
+  height: 150px;
+  border-radius: 5px;
+}
+
+.firefly {
+  background-color:#eaeaee;
+  float: left;
+  text-align: center;
+  border-width: 3px;
+  border: 2px dashed gray;
+  padding: 10px;
+  margin: 20px;
+
+}
+
+.ladybug {
+  background-color: lightgrey;
+  float: left;
+  text-align: center;
+  border-width: 3px;
+  border: 2px dashed gray;
+  padding: 10px;
+  margin: 20px;
+
+}
+
+.butterfly {
+  background-color: lightgrey;
+  float: left;
+  text-align: center;
+  border-width: 3px;
+  border: 2px dashed gray;
+  padding: 10px;
+  margin: 20px;
+}
